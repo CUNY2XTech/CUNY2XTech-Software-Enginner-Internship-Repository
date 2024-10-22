@@ -12,8 +12,6 @@
 <h2>This job repository is your go-to resource for discovering and sharing the latest internships opportunities in: Software Enginnering
 </h2>
 <p>Internships will be updated</p>
-
-
 </div>
 
 | Company          | Internship Name                 | Location       | Application Link                                                  |
@@ -57,5 +55,4 @@
 | Riskified        | Engineering Intern              | New York, NY   | [Riskified](https://www.riskified.com/careers)                    |
 | UrbanStems       | Software Engineering Internship | New York, NY   | [UrbanStems](https://urbanstems.com/careers)                      |
 | x.ai             | Software Engineer Intern        | Remote         | [x.ai](https://x.ai/careers)                                      |
-
 
