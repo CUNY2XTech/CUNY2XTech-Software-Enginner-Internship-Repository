@@ -18,12 +18,12 @@
 
 | Company          | Internship Name                 | Location       | Application Link                                                  |
 |------------------|---------------------------------|----------------|-------------------------------------------------------------------|
-| Amazon           | Software Development Intern     | NYC/Remote     | [Amazon](https://www.amazon.jobs/en/teams/internships)             |
+| Amazon           | Software Development Intern     | NYC/Remote     | [Amazon](https://www.amazon.jobs/en/jobs/2798104/software-dev-engineer-intern-2025-automated-reasoning)             |
 | Snap Inc.        | Software Engineer Intern        | NYC/Remote     | [Snap Inc.](https://careers.snap.com/jobs)                        |
 | Citadel          | Quantitative Researcher PhD Intern | NYC          | [Citadel](https://www.citadel.com/careers/open-positions)          |
 | Braze            | Software Engineering Intern     | NYC/Hybrid     | [Braze](https://www.braze.com/company/careers)                    |
-| Meta             | Software Engineer Intern        | Remote         | [Meta](https://www.metacareers.com)                               |
-| Google           | Software Engineering Internship | NYC/Remote     | [Google](https://careers.google.com/students/)                    |
+| Meta             | Software Engineer Intern        | Remote         | [Meta](https://www.metacareers.com/jobs/1647923135778238/)                               |
+| Google           | Software Engineering Internship | NYC/Remote     | [Google](https://www.google.com/about/careers/applications/jobs/results/133334514184135366-software-engineering-intern-bs-summer-2025)                    |
 | Spotify          | Summer Internship Program       | NYC/Remote     | [Spotify](https://www.spotifyjobs.com/students/)                  |
 | LinkedIn         | Software Engineering Intern     | Remote         | [LinkedIn](https://careers.linkedin.com/students)                 |
 | IBM              | Software Developer Intern       | NYC/Remote     | [IBM](https://www.ibm.com/us-en/employment/internships/)          |
