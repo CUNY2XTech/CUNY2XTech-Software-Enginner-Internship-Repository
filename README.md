@@ -16,6 +16,7 @@
 
 | Company          | Internship Name                 | Location       | Application Link                                                  |Date Posted
 |------------------|---------------------------------|----------------|-------------------------------------------------------------------|-----------------------
+|CVS Health|Software Engineering Undergraduate Internship - Summer 2025|New York City, NY, Wellesley (Boston), MA, Hartford, CT and Irving (Dallas), TX|[CVS Health](https://jobs.cvshealth.com/us/en/job/R0409095/Software-Engineering-Undergraduate-Internship-Summer-2025)|nov 16 Closes 1/1/2025|
 |Home Depot|Cyber Security Internship|Remote in USA|[Home Depot](https://lnkd.in/eQ94uSdw)|11/16|
 |Nethermind|Internship Program 2024|Remote in USA|[Nethermind](https://job-boards.eu.greenhouse.io/nethermind/jobs/4104204101?utm_source=Simplify&ref=Simplify)|11/9|
 |Leidos|AI Explainability Engineer Intern|Remote in USA|[Leidos](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Explainability-Engineer-Intern_R-00146692-1?utm_source=Simplify&ref=Simplify)|11/8|
