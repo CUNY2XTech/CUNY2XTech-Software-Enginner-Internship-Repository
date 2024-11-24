@@ -16,6 +16,9 @@
 
 | Company          | Internship Name                 | Location       | Application Link                                                  |Date Posted
 |------------------|---------------------------------|----------------|-------------------------------------------------------------------|-----------------------
+|Figma|Software Engineer - Early Career (2025)|NYC USA|[Figma](https://jobright.ai/jobs/info/673f02d4d651f76d9b3f66b1?utm_source=1023&utm_campaign=DavidChen)|Nov 21st|
+|Electronic Arts|Online Software Engineer Intern|Remote|[EA](https://jobright.ai/jobs/info/673b9bc019365bb0b2d63bc9?utm_source=1023&utm_campaign=DavidChen)|Nov 18th|
+|Amazon|Software Development Engineer Internship - 2025 (US)|USA|[Amazon](https://amazon.jobs/en/jobs/2808739/software-development-engineer-internship-2025-us)|Nov 13th|
 |Yahoo|ALL Yahoo Software Engineering Internships (US)|Remote|[Yahoo](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America---Remote/ALL-Yahoo-Software-Engineering-Internships--US----Apply-Here-_JR0025188?source=LinkedIn)|11/8|
 |CVS Health|Software Engineering Undergraduate Internship - Summer 2025|New York City, NY, Wellesley (Boston), MA, Hartford, CT and Irving (Dallas), TX|[CVS Health](https://jobs.cvshealth.com/us/en/job/R0409095/Software-Engineering-Undergraduate-Internship-Summer-2025)|nov 16 Closes 1/1/2025|
 |Home Depot|Cyber Security Internship|Remote in USA|[Home Depot](https://lnkd.in/eQ94uSdw)|11/16|
@@ -28,7 +31,6 @@
 |Monad Labs|Summer 2025 Research Intern|	Remote in USA NYC|[Monad Labs](https://job-boards.greenhouse.io/monad/jobs/4493910005?utm_source=Simplify&ref=Simplify)|11/5|
 |Major League Baseball        | 2025 Summer Intern - Technology           | NYC     | [Major League Baseball](https://boards.greenhouse.io/drivewealth/jobs/6256736003?utm_source=Simplify&ref=Simplify)|11/4|
 |Coinbase|Security Engineer Intern|New York, NY|[Coinbase](https://www.coinbase.com/en-ca/careers/positions/6306332?utm_source=Simplify&ref=Simplify)|11/4|
-|Reddit|Software Engineer Intern|New York, NY,San Francisco, CA Remote|[Reddit](https://app.ripplematch.com/v2/public/job/82ab6644/details?utm_source=Simplify&ref=Simplify)|11/1|
 
 
 
