@@ -28,7 +28,6 @@
 |DriveWealth|Summer 2025 Intern - Product Engineering|NYC|[DriveWealth](https://boards.greenhouse.io/drivewealth/jobs/6256777003?utm_source=Simplify&ref=Simplify)|11/7|
 |Autodesk|Intern – Research Engineer - Real-Time Simulation & Artificial Intelligence|Remote in USA|[AutoDesk](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Florida-USA---Remote/Intern--Research-Engineer--Real-Time-Simulation---Artificial-Intelligence_24WD82931?utm_source=Simplify&ref=Simplify)|11/7|
 |GitHub|Software Engineering Intern|Remote in USA|[GitHub](https://githubinc.jibeapply.com/jobs/3569?lang=en-us&icims=1&utm_source=Simplify&ref=Simplify)|11/6|
-|Schoolhouse.world|Software Engineer Intern|Remote|[Schoolhouse.world](https://jobs.ashbyhq.com/schoolhouse-world/1a5bc2f1-228f-4901-a120-2271522e11ec?utm_source=Simplify&ref=Simplify)|11/6|
 |Monad Labs|Summer 2025 Research Intern|	Remote in USA NYC|[Monad Labs](https://job-boards.greenhouse.io/monad/jobs/4493910005?utm_source=Simplify&ref=Simplify)|11/5|
 |Major League Baseball        | 2025 Summer Intern - Technology           | NYC     | [Major League Baseball](https://boards.greenhouse.io/drivewealth/jobs/6256736003?utm_source=Simplify&ref=Simplify)|11/4|
 
