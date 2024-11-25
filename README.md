@@ -24,7 +24,6 @@
 |CVS Health|Software Engineering Undergraduate Internship - Summer 2025|New York City, NY, Wellesley (Boston), MA, Hartford, CT and Irving (Dallas), TX|[CVS Health](https://jobs.cvshealth.com/us/en/job/R0409095/Software-Engineering-Undergraduate-Internship-Summer-2025)|nov 16 Closes 1/1/2025|
 |Home Depot|Cyber Security Internship|Remote in USA|[Home Depot](https://lnkd.in/eQ94uSdw)|11/16|
 |Nethermind|Internship Program 2024|Remote in USA|[Nethermind](https://job-boards.eu.greenhouse.io/nethermind/jobs/4104204101?utm_source=Simplify&ref=Simplify)|11/9|
-|Leidos|AI Explainability Engineer Intern|Remote in USA|[Leidos](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Explainability-Engineer-Intern_R-00146692-1?utm_source=Simplify&ref=Simplify)|11/8|
 |DriveWealth|Summer 2025 Intern - Product Engineering|NYC|[DriveWealth](https://boards.greenhouse.io/drivewealth/jobs/6256777003?utm_source=Simplify&ref=Simplify)|11/7|
 |GitHub|Software Engineering Intern|Remote in USA|[GitHub](https://githubinc.jibeapply.com/jobs/3569?lang=en-us&icims=1&utm_source=Simplify&ref=Simplify)|11/6|
 |Monad Labs|Summer 2025 Research Intern|	Remote in USA NYC|[Monad Labs](https://job-boards.greenhouse.io/monad/jobs/4493910005?utm_source=Simplify&ref=Simplify)|11/5|
