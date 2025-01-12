@@ -22,12 +22,7 @@
 |Tik Tok|(General Hire) Software Engineer Intern (USDS)- 2025|NYC|[Tik Tok](https://lifeattiktok.com/search/7411924220182497562?spread=5MWH5CQ)|12/5|
 |Blizzard|2025 US Co-Op - Game Engineering|NY|[Blizzard](https://careers.blizzard.com/global/en/job/R024239/2025-US-Co-Op-Game-Engineering)|12/3|
 |NFL|2025 Undergraduate Summer Intern|NY|[NFL](https://job-boards.greenhouse.io/nflcareers/jobs/4424492008)|12/8|
-|build4good |Intern|USA|[build4good](https://airtable.com/appJRXpi6jYWk1mBP/pag3S8gXeKKFVEZcb/form)||
-|JP Morgan|Software Engineer Internship|USA|[JP Morgan](https://careers.jpmorgan.com/us/en/students/programs/software-engineer-summer)|12/1|
-|Two Sigma|Software Engineering Internship - NYC|NYC|[Two Sigma](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-NYC/12601)|
-|Datdog|Software Engineer - Early Career|NYC|[DatDog](https://jobright.ai/jobs/info/66d73df9070b808e9f3a0c68?utm_campaign=Software%20Engineering&utm_source=1103)|11/27|
-|SOCOTEC|Frontend Software Engineer|NYC|[SOCOTEC](https://jobright.ai/jobs/info/6712c5314b8331b0e7c8e681?utm_campaign=Software%20Engineering&utm_source=1103)|12/1|
-|SOCOTEC|Frontend Software Engineer|NYC|[SOCOTEC](https://jobright.ai/jobs/info/6712c5314b8331b0e7c8e681?utm_campaign=Software%20Engineering&utm_source=1103)|11/30|
+
 
 
 
