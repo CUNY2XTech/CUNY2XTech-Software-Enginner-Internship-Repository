@@ -16,6 +16,8 @@
 
 | Company          | Internship Name                 | Location       | Application Link                                                  |Date Posted
 |------------------|---------------------------------|----------------|-------------------------------------------------------------------|-----------------------
+|Torch Dental|Software Engineer|NY|[Torch Dental](https://jobs.lever.co/torchdental/dfbf1de8-9de3-4e69-a881-b0460b840291)||
+|Capital One|Technology Early Internship Program|VA Hybrid|[Capital One](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Technology-Early-Internship-Program---Summer-2025_R189734-1?workerSubType=a12c70bf789e10572aab83c4780919ad)|1/14|
 |Airbnb|Software Engineering Intern|USA Remote|[Airbnb](https://jobright.ai/jobs/info/6765c06be484a8f6113ca586?utm_source=1023&utm_campaign=DavidChen)|1/10|
 |AI in Tech|Break Through Tech AI Program|NYC|[AI in Tech](https://breakthroughtech.tfaforms.net/wfz1abQ/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ3b3JrZmxvd1Nlc3Npb25VdWlkIjoiOTk4ZTViOTItM2YzMC00NmU5LWJjMTAtMTczZDE3YTNjOGEwIiwiZm9ybUlkIjoyMiwicmVzcG9uc2VJZCI6bnVsbCwidXNlX3NhdmVfcmVzdW1lIjp0cnVlfQ.KUJCtutbLBXXFhB_Xjs9vUKFlPwdXHFHZbMmA0tkcqg)|Apply by Feb24|
 |JP Morgan|Emerging Talent Experience|NYC|[JP Morgan](https://careers.jpmorgan.com/global/en/students/programs/et-experience)|Apply by 1/31|
