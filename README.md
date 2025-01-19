@@ -16,6 +16,9 @@
 
 | Company          | Internship Name                 | Location       | Application Link                                                  |Date Posted
 |------------------|---------------------------------|----------------|-------------------------------------------------------------------|-----------------------
+|Amazon|Front-End Engineer, 2025 SPC|WA|[Amazon](https://jobright.ai/jobs/info/67887241d67fb975ffc036a3?utm_source=1023&utm_campaign=DavidChen)|1/16|
+|CLEAR|Software Engineering Intern, Backend|NY|[CLEAR](https://offerpilotai.com/job/hc-1bxc0ti59yf39b55so9ia0tylvg9u9ebnnb07uu3t9zuvgdyg8?utm_source=linkedin&utm_medium=posts&utm_campaign=2025_internship_or_new_grad_opportunity&utm_content=K_clear)|1/9|
+|Joseph S. Nye, Jr. National Security Internship and Mentoring Program|Intern|Washington|[Joseph S. Nye, Jr. National Security Internship and Mentoring Program](https://center-for-a-new-american-security.breezy.hr/p/5e0162b7f5ba-joseph-s-nye-jr--national-security-internship-and-mentoring-program)||
 |Torch Dental|Software Engineer|NY|[Torch Dental](https://jobs.lever.co/torchdental/dfbf1de8-9de3-4e69-a881-b0460b840291)||
 |Capital One|Technology Early Internship Program|VA Hybrid|[Capital One](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Technology-Early-Internship-Program---Summer-2025_R189734-1?workerSubType=a12c70bf789e10572aab83c4780919ad)|1/14|
 |Airbnb|Software Engineering Intern|USA Remote|[Airbnb](https://jobright.ai/jobs/info/6765c06be484a8f6113ca586?utm_source=1023&utm_campaign=DavidChen)|1/10|
@@ -27,7 +30,6 @@
 |Ramp|University Grad 2025: Software Engineer - Backend|NYC|[Ramp](https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb)|12/10|
 |Citi|Technology- Software Development, Summer Analyst |New York City/ Jersey City 2025|[Citi](https://jobs.citi.com/job/-/-/287/72965284016?utm_term=393702677&ss=paid&utm_campaign=nam_experienced&utm_medium=job_posting&source=APPLICANT_SOURCE-3-354&utm_source=linkedin.com&utm_content=social_media)|12/9|
 |Spotify|Backend Engineer, Audiobooks|NYC|[Spotify](https://jobs.lever.co/spotify/9e9836ac-75d3-4638-b842-59b4ca1cb442?lever-source=LinkedInJobs)|12/8|
-|Tik Tok|(General Hire) Software Engineer Intern (USDS)- 2025|NYC|[Tik Tok](https://lifeattiktok.com/search/7411924220182497562?spread=5MWH5CQ)|12/5|
 
 
 
